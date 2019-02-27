@@ -1,0 +1,2 @@
+# PrivatePodspec-
+test pod
